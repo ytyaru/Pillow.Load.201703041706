@@ -24,7 +24,7 @@ http://f.hatena.ne.jp/ytyaru/Hatena%20Blog/rss?page=1
 * [はてなブログ記事DBを作る](http://ytyaru.hatenablog.com/entry/2017/07/02/000000)
     * [はてなAPIで取得したXMLから記事データを取得しDBに保存する](http://ytyaru.hatenablog.com/entry/2017/07/05/000000)
 * [はてなフォトライフDBを作る](http://ytyaru.hatenablog.com/entry/2017/07/03/000000)
-    * [Pythonでフォトライフから画像をダウンロードする](http://ytyaru.hatenablog.com/entry/2017/07/10/000000)
+    * [フォトライフRSSのデータをローカルDBへマージする](http://ytyaru.hatenablog.com/entry/2017/07/10/000000)
     * [Pythonでフォトライフから画像をダウンロードする](http://ytyaru.hatenablog.com/entry/2017/07/11/000000)
 
 ## 設定する
